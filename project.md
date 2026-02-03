@@ -2,9 +2,10 @@
 title: Project
 permalink: /project/
 ---
+## 2023–2024  
+**Spatial Distribution and Participatory Management Strategies for Controlling *Thunbergia alata* and Conserving Ecosystem Goods and Services in Andean Landscapes: The Case of the Metropolitan District of Quito**
 
-
-2023-2024: Spatial Distribution and Participatory Management Strategies for Controlling Thunbergia alata and Conserving Ecosystem Goods and Services in Andean Landscapes: The Case of the Metropolitan District of Quito
+**Rol:** Principal investigator
 Abstract
 Rol: Principal investigator
 
