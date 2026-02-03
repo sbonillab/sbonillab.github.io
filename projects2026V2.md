@@ -1,4 +1,4 @@
---
+---
 layout: default
 title: Projects 2026
 permalink: /projects2026V2/
