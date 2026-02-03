@@ -3,12 +3,27 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+Carlen, E. J., Caizergues, A. E., Jagiello, Z., Kuzyo, H., Munshi-South, J., Alberti, M., Angeoletto, F., Bonilla-Bedoya, S., Booth, W., Charmantier, A., Cocciardi, J. M., Cook, E. M., Gotanda, K. M., Govaert, L., Johnson, L. E., Li, D., Malesis, A. N., Martin, E., Marzluff, J. M., … Szulkin, M. (2025). Legacy effects of religion, politics and war on urban evolutionary biology. Nature Cities, 2(7), 593–602. [https://doi.org/10.1038/s44284-025-00249-3](https://doi.org/10.1038/s44284-025-00249-3)
 
+Uvidia, K., Salazar-Cotugno, L., Molina, J. R., Silva, G. F., & Bonilla-Bedoya, S. (2025). Effects on Soil Organic Carbon Stock in the Context of Urban Expansion in the Andes: Quito City Case. Forests, 16(1409), 1–19.[https://doi.org/10.3390/f16091409](https://doi.org/10.3390/f16091409)
+
+Zalakeviciute, R., Vallejo, F., Erazo, B., Chimborazo, O., Bonilla-Bedoya, S., Mejia, D., Tapia-Flores, T. I., Chuquimarca, G., & Rybarczyk, Y. (2025). Beyond Global Trends: Two Decades of Climate Data in the World’s Highest Equatorial City. Atmosphere, 16(9), 1–15. [https://doi.org/10.3390/atmos16091080](https://doi.org/10.3390/atmos16091080)
+
+Zalakeviciute, R., Lopez-Villada, J., Ochoa, A., Moreno, V., Byun, A., Proaño, E., Mejía, D., Bonilla-Bedoya, S., Rybarczyk, Y., & Vallejo, F. (2025). Urban Air Pollution in the Global South: A Never-Ending Crisis? Atmosphere, 16(5), 1–31. [https://doi.org/10.3390/atmos16050487](https://doi.org/10.3390/atmos16050487)
+
+Savage, A., Willmott, M., Moreno, P., Li, D., Malesis, A., Jagie Ll Lo, Z., Miles, L., Kuzyo, H., Palacios, C. R., Salazar, D., Verrelli, B., Winchell, K., Alberti, M., Bonilla-Bedoya, S., Carlen, E., Falvey, C., Johnson, L., Martin, E., Marzluff, J., … Gotanda, K. (2024). Online toolkits for collaborative and inclusive global research in urban evolutionary ecology. Ecology and Evolution. June, 1–18. [https://doi.org/10.1002/ece3.11633](https://doi.org/10.1002/ece3.11633)
+
+Peck, M. R., Desselas, M., Bonilla-Bedoya, S., Redín, G., & Durango-Cordero, J. (2024). The conflict between Rights of Nature and mining in Ecuador: Implications of the Los Cedros Cloud Forest case for biodiversity conservation. People and Nature, September 2023, 1–20. [https://doi.org/10.1002/pan3.10615](https://doi.org/10.1002/pan3.10615)
+
+Mejía C, D., Faican, G., Zalakeviciute, R., Matovelle, C., Bonilla-Bedoya, S., & Sobrino, J. A. (2024). Spatio-temporal evaluation of air pollution using ground-based and satellite data during COVID-19 in Ecuador. Heliyon, 10(7). [https://doi.org/10.1016/j.heliyon.2024.e28152](https://doi.org/10.1016/j.heliyon.2024.e28152)
+
+Zalakeviciute, R., Bonilla Bedoya, S., Mejia Coronel, D., Bastidas, M., Buenano, A., & Diaz-Marquez, A. (2024). Central parks as air quality oases in the tropical Andean city of Quito. Atmospheric Environment: X, 21, 100239. [https://doi.org/10.1016/j.aeaoa.2024.100239](https://doi.org/10.1016/j.aeaoa.2024.100239)
+
+Mejía C., D., Alvarez, H., Zalakeviciute, R., Macancela, D., Sanchez, C., & Bonilla-Bedoya, S. (2023). Sentinel satellite data monitoring of air pollutants with interpolation methods in Guayaquil, Ecuador. Remote Sensing Applications: Society and Environment, 31, 100990. [https://doi.org/10.1016/j.rsase.2023.100990](https://doi.org/10.1016/j.rsase.2023.100990)
 
 Bonilla-Bedoya, S., Valencia, K., Herrea, M. A., López-Ulloa, M., Donoso, D. A., & Macedo Pezzopane, J. (2023). Mapping 50 years of contribution to the development of soil quality biological indicators Mapping 50 years of contribution to the development of soil quality biological indicators. Ecological Indicators, 148(110091), 13. [https://doi.org/10.1016/j.ecolind.2023.110091](https://doi.org/10.1016/j.ecolind.2023.110091). 
 
 Watson, C. S., Elliott, J. R., Córdova, M., Menoscal, J., Bonilla-Bedoya, S., Watson, C. S., Elliott, J. R., Córdova, M., & Menoscal, J. (2023). Evaluating night-time light sources and correlation with socio-economic development using high- resolution multi-spectral Jilin-1 satellite imagery of Quito, Ecuador. International Journal of Remote Sensing, 44(8), 2691–2716. [https://doi.org/10.1080/01431161.2023.2205983](https://doi.org/10.1080/01431161.2023.2205983).
-
 
 Santos, F., Calle, N., Bonilla-Bedoya, S., Sarmiento, F., & Herrnegger, M. (2023). Impacts of soil erosion and climate change on the built heritage of the Pambamarca Fortress Complex in northern Ecuador. In PloS one (Vol. 18, Issue 2). [https://doi.org/10.1371/journal.pone.0281869](https://doi.org/10.1371/journal.pone.0281869).
 
