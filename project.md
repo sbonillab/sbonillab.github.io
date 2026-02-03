@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Project
 permalink: /project/
 ---
@@ -33,7 +32,7 @@ a la erradicación de esta especie invasora y a la preservación de servicios ec
 del Distrito Metropolitano de Quito de la amenaza invasora que supone Thunbergia alata.
 
 
-nero-Diciembre-2020.Environmental resilience in cities. Quito and Guayaquil cases [https://cedia.edu.ec/resiliencia-ambiental-en-sistemas-socio-ecologicos-urbanos-de-ciudades-neo-tropicales-casos-quito-y-guayaquil/
+Enero-Diciembre-2020.Environmental resilience in cities. Quito and Guayaquil cases [https://cedia.edu.ec/resiliencia-ambiental-en-sistemas-socio-ecologicos-urbanos-de-ciudades-neo-tropicales-casos-quito-y-guayaquil/
 (https://cedia.edu.ec/resiliencia-ambiental-en-sistemas-socio-ecologicos-urbanos-de-ciudades-neo-tropicales-casos-quito-y-guayaquil/)
 
 Rol: Principal investigator
