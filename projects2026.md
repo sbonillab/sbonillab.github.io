@@ -1,41 +1,39 @@
 ---
 layout: default
-title: Project
-permalink: /project/
+title: Projects 2026
+permalink: /projects2026/
+---
+
+# Projects Overview
+
 ---
 
 ## 2023–2024  
 **Spatial Distribution and Participatory Management Strategies for Controlling _Thunbergia alata_ and Conserving Ecosystem Goods and Services in Andean Landscapes: The Case of the Metropolitan District of Quito**
 
-**Rol:** Principal investigator
+**Role:** Principal investigator
 
 ### Abstract
 Thunbergia alata, an invasive exotic plant, poses a significant threat to natural habitats, causing detrimental effects on biodiversity and ecosystem stability. This project focuses on mitigating the increasing presence of Thunbergia alata in the Andean landscapes within the Metropolitan District of Quito.  
 
-The methodology consists of three essential components:
+**Methodology:**
+1. **Spatial modeling:** Assess distribution and expansion using topography, land cover, multispectral imagery, field surveys, and citizen science data.  
+2. **Communication & education:** Engage local leaders and decision-makers to increase awareness and commitment.  
+3. **Experimental management:** Implement small-scale monitoring and eradication in sensitive zones (Conocoto and Nayón).  
 
-1. **Spatial modeling:** An extensive spatial modeling approach is employed to assess the distribution and expansion of Thunbergia alata. This analysis incorporates topographic variables, land cover data, multispectral imagery, field surveys, and citizen science data. By mapping the extent of the invasion, this component provides insights into the most affected areas and those at higher risk.
-
-2. **Communication and education:** A targeted program is designed to engage local leaders and decision-makers. The goal is to increase awareness of ecological impacts and foster active commitment to controlling Thunbergia alata.
-
-3. **Experimental management:** The project implements experimental strategies and monitoring programs on a smaller scale, focusing on eradicating Thunbergia alata in sensitive zones such as the parishes of Conocoto and Nayón.
-
-In conclusion, this project establishes a scientific foundation to identify priority intervention areas, understand the impact on biodiversity, and develop effective management strategies for the preservation of ecosystem services.
+This project establishes a scientific foundation to identify priority intervention areas and develop effective management strategies for ecosystem conservation.
 
 ---
 
 ## Español  
-**Thunbergia alata**, una planta exótica invasora, representa una amenaza significativa para los hábitats naturales, causando efectos perjudiciales sobre la biodiversidad y la estabilidad de los ecosistemas. Este proyecto se centra en mitigar la creciente presencia de Thunbergia alata en los paisajes andinos del Distrito Metropolitano de Quito.  
+**Thunbergia alata**, una planta exótica invasora, representa una amenaza significativa para los hábitats naturales y la biodiversidad. Este proyecto se centra en mitigar su presencia creciente en los paisajes andinos del Distrito Metropolitano de Quito.  
 
-La metodología consta de tres componentes esenciales:
+**Metodología:**
+1. **Modelado espacial:** Evaluación de distribución y expansión usando variables topográficas, ocupación del suelo, imágenes multiespectrales, estudios de campo y ciencia ciudadana.  
+2. **Comunicación y educación:** Programa para líderes locales para aumentar la concienciación y compromiso.  
+3. **Gestión experimental:** Estrategias de monitoreo y erradicación en zonas sensibles (Conocoto y Nayón).  
 
-1. **Modelado espacial:** Se emplea un amplio enfoque de modelado espacial para evaluar la distribución y expansión de Thunbergia alata, usando variables topográficas, datos de ocupación del suelo, imágenes multiespectrales, estudios de campo y ciencia ciudadana.
-
-2. **Comunicación y educación:** Se diseña un programa específico para líderes y responsables locales, con el objetivo de aumentar la concienciación sobre los impactos ecológicos y fomentar un compromiso activo para el control de la especie.
-
-3. **Gestión experimental:** Se implementan estrategias experimentales y programas de monitoreo a menor escala, enfocándose en erradicar Thunbergia alata en zonas ecológicamente sensibles como Conocoto y Nayón.
-
-En conclusión, el proyecto busca establecer una base científica sólida para identificar áreas prioritarias de intervención y desarrollar estrategias de gestión eficaces, contribuyendo a la conservación de los servicios ecosistémicos.
+Objetivo: establecer una base científica sólida para priorizar áreas de intervención y estrategias de gestión efectivas.
 
 ---
 
@@ -43,28 +41,19 @@ En conclusión, el proyecto busca establecer una base científica sólida para i
 
 **Enero–Diciembre 2020**  
 Environmental resilience in cities: Quito and Guayaquil cases  
-[Ver proyecto completo](https://cedia.edu.ec/resiliencia-ambiental-en-sistemas-socio-ecologicos-urbanos-de-ciudades-neo-tropicales-casos-quito-y-guayaquil/)
+[Proyecto completo](https://cedia.edu.ec/resiliencia-ambiental-en-sistemas-socio-ecologicos-urbanos-de-ciudades-neo-tropicales-casos-quito-y-guayaquil/)
 
-**Rol:** Principal investigator
+**Role:** Principal investigator
 
 ![ER](images/Resiliencia03.png)
 
-Global urbanization and rapid urban population growth are two dominant demographic trends in this century. Both are the products of socio-ecological relationships posing challenges to sustainability, environmental justice, and citizen well-being. Environmental monitoring methods, including spatial approaches, sensors, and remote sensing, integrate understanding of environmental variations from a socio-ecological perspective.  
-
-This project proposes to broaden knowledge on environmental quality in Ecuadorian urban areas, using complex adaptive systems frameworks, spatial-temporal analysis, and sustainable urban planning criteria. The results are integrated into a mobile app that allows citizens to interact with project outcomes, promoting environmental justice and well-being.
+Global urbanization and rapid urban population growth are major challenges for sustainability, environmental justice, and citizen well-being. This project uses spatial-temporal analysis, sensors, remote sensing, and complex adaptive systems to study environmental quality in Ecuadorian cities. Results are integrated into a mobile app, enabling citizen interaction and early alerts.
 
 ---
 
-## Resiliencia ambiental en sistemas socio-ecológicos urbanos (Español)
+## Resiliencia ambiental en ciudades (Español)
 
-Resiliencia ambiental en sistemas socio-ecológicos urbanos de ciudades neo-tropicales, casos Quito y Guayaquil. El proceso de urbanización global y el crecimiento de la población urbana son tendencias dominantes en el siglo XXI. Ambas son producto de relaciones socio-ecológicas y representan desafíos de sostenibilidad.  
-
-Los ambientes urbanos deben garantizar justicia ambiental y bienestar ciudadano. Los métodos de monitoreo ambiental que integran enfoque espacial, sensores y teledetección, considerando la perspectiva socio-ecológica, son poco usados en países en desarrollo.  
-
-Este proyecto plantea ampliar el conocimiento sobre la calidad ambiental urbana de ciudades ecuatorianas, usando sistemas adaptativos complejos, análisis espacio-temporal y criterios de sostenibilidad que puedan aplicarse en la planificación urbana. Los resultados se integrarán en una aplicación móvil que permitirá a los ciudadanos interactuar con la información, generando alertas tempranas y promoviendo justicia ambiental y bienestar.
-
-
-
+Este proyecto analiza la resiliencia ambiental urbana en Quito y Guayaquil, considerando sistemas socio-ecológicos y criterios de sostenibilidad. Se usan métodos de monitoreo espacial, sensores y teledetección, integrando información para la planificación urbana y la justicia ambiental. Los resultados se mostrarán en una aplicación móvil que permite a los ciudadanos interactuar con los datos y generar alertas tempranas.
 
 2004-2009. Development of sustainable agroforestry systems based on indigenous and maroon knowledge in the Guyana shield region (Guyagrofor Project: [https://cordis.europa.eu/project/id/510935](https://cordis.europa.eu/project/id/510935).
 
