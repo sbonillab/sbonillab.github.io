@@ -1,8 +1,14 @@
 ---
 layout: default
-title: Projects 2026
-permalink: /projects2026/
+title: Project
+permalink: /project/
 ---
+# Projects Overview
+
+## 2023–2024
+**Spatial Distribution and Participatory Management Strategies for Controlling _Thunbergia alata_ and Conserving Ecosystem Goods and Services in Andean Landscapes: The Case of the Metropolitan District of Quito**
+
+**Role:** Principal investigator
 
 # Projects Overview
 
