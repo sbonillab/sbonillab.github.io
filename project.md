@@ -4,34 +4,40 @@ title: Project
 permalink: /project/
 ---
 
-## 2023–2024
+## 2023–2024  
 **Spatial Distribution and Participatory Management Strategies for Controlling _Thunbergia alata_ and Conserving Ecosystem Goods and Services in Andean Landscapes: The Case of the Metropolitan District of Quito**
 
 **Rol:** Principal investigator
 
 ### Abstract
-Thunbergia alata, an invasive exotic plant, poses a significant threat to natural habitats, causing detrimental effects on biodiversity and ecosystem stability. This project focuses on mitigating the increasing presence
-of Thunbergia alata in the Andean landscapes within the Metropolitan District of Quito. The methodology consists of three essential components: Firstly, an extensive spatial modeling approach is employed to assess the
-distribution and expansion of Thunbergia alata. This analysis incorporates topographic variables, land cover data, multispectral imagery, field surveys, and data from citizen science initiatives. By mapping the extent of
-the invasion, this component provides valuable insights into the most affected areas and those at higher risk. Secondly, a targeted communication and environmental education program is designed to engage local leaders and
-decision-makers. The primary aim is to enhance awareness of the ecological impacts of Thunbergia alata invasion and to foster active commitment to its control. Effective community and governmental involvement is vital for
-the success of invasive species management strategies. Lastly, the project implements experimental strategies and monitoring programs on a smaller scale, concentrating on eradicating Thunbergia alata in ecologically
-sensitive zones such as the parishes of Conocoto and Nayón. These localized efforts are focused on preventing further spread and restoring native ecosystems. In conclusion, this project seeks to establish a robust
-scientific foundation for identifying priority intervention areas and gaining a deeper understanding of Thunbergia alata impact on biodiversity. Through this research, effective management strategies can be developed,
-contributing to the eradication of this invasive species and the preservation of crucial ecosystem services. Ultimately, this project represents a crucial step towards safeguarding the unique and fragile Andean landscapes
-within the Metropolitan District of Quito from the invasive threat posed by Thunbergia alata.
+Thunbergia alata, an invasive exotic plant, poses a significant threat to natural habitats, causing detrimental effects on biodiversity and ecosystem stability. This project focuses on mitigating the increasing presence of Thunbergia alata in the Andean landscapes within the Metropolitan District of Quito.  
 
-Thunbergia alata, una planta exótica invasora, representa una amenaza significativa para los hábitats naturales, causando efectos perjudiciales sobre la biodiversidad y la estabilidad de los ecosistemas. Este proyecto se
-centra en mitigar la creciente presencia de Thunbergia alata en los paisajes andinos del Distrito Metropolitano de Quito. La metodología consta de tres componentes esenciales: En primer lugar, se emplea un amplio enfoque
-de modelado espacial para evaluar la distribución y expansión de Thunbergia alata. Este análisis incorpora variables topográficas, datos sobre la ocupación del suelo, imágenes multiespectrales, estudios de campo y datos
-procedentes de iniciativas de ciencia ciudadana. Al cartografiar la extensión de la invasión, este componente proporciona información valiosa sobre las zonas más afectadas y las de mayor riesgo. En segundo lugar, se ha
-diseñado un programa específico de comunicación y educación ambiental para implicar a los líderes y responsables locales. El objetivo principal es aumentar la concienciación sobre las repercusiones ecológicas de la
-invasión de Thunbergia alata y fomentar un compromiso activo para su control. La implicación efectiva de la comunidad y los gobiernos es vital para el éxito de las estrategias de gestión de especies invasoras. Por último,
-el proyecto implementa estrategias experimentales y programas de monitoreo a menor escala, concentrándose en la erradicación de Thunbergia alata en zonas ecológicamente sensibles como las parroquias de Conocoto y Nayón.
-Estos esfuerzos localizados están enfocados en prevenir una mayor propagación y restaurar los ecosistemas nativos. En conclusión, este proyecto busca establecer una base científica robusta para identificar áreas
-prioritarias de intervención y obtener una comprensión más profunda del impacto de Thunbergia alata en la biodiversidad. Gracias a esta investigación, se podrán desarrollar estrategias de gestión eficaces que contribuyan
-a la erradicación de esta especie invasora y a la preservación de servicios ecosistémicos cruciales. En última instancia, este proyecto representa un paso crucial para salvaguardar los paisajes andinos únicos y frágiles
-del Distrito Metropolitano de Quito de la amenaza invasora que supone Thunbergia alata.
+The methodology consists of three essential components:
+
+1. **Spatial modeling:** An extensive spatial modeling approach is employed to assess the distribution and expansion of Thunbergia alata. This analysis incorporates topographic variables, land cover data, multispectral imagery, field surveys, and citizen science data. By mapping the extent of the invasion, this component provides insights into the most affected areas and those at higher risk.
+
+2. **Communication and education:** A targeted program is designed to engage local leaders and decision-makers. The goal is to increase awareness of ecological impacts and foster active commitment to controlling Thunbergia alata.
+
+3. **Experimental management:** The project implements experimental strategies and monitoring programs on a smaller scale, focusing on eradicating Thunbergia alata in sensitive zones such as the parishes of Conocoto and Nayón.
+
+In conclusion, this project establishes a scientific foundation to identify priority intervention areas, understand the impact on biodiversity, and develop effective management strategies for the preservation of ecosystem services.
+
+---
+
+## Español  
+**Thunbergia alata**, una planta exótica invasora, representa una amenaza significativa para los hábitats naturales, causando efectos perjudiciales sobre la biodiversidad y la estabilidad de los ecosistemas. Este proyecto se centra en mitigar la creciente presencia de Thunbergia alata en los paisajes andinos del Distrito Metropolitano de Quito.  
+
+La metodología consta de tres componentes esenciales:
+
+1. **Modelado espacial:** Se emplea un amplio enfoque de modelado espacial para evaluar la distribución y expansión de Thunbergia alata, usando variables topográficas, datos de ocupación del suelo, imágenes multiespectrales, estudios de campo y ciencia ciudadana.
+
+2. **Comunicación y educación:** Se diseña un programa específico para líderes y responsables locales, con el objetivo de aumentar la concienciación sobre los impactos ecológicos y fomentar un compromiso activo para el control de la especie.
+
+3. **Gestión experimental:** Se implementan estrategias experimentales y programas de monitoreo a menor escala, enfocándose en erradicar Thunbergia alata en zonas ecológicamente sensibles como Conocoto y Nayón.
+
+En conclusión, el proyecto busca establecer una base científica sólida para identificar áreas prioritarias de intervención y desarrollar estrategias de gestión eficaces, contribuyendo a la conservación de los servicios ecosistémicos.
+
+---
 
 
 Enero-Diciembre-2020.Environmental resilience in cities. Quito and Guayaquil cases [https://cedia.edu.ec/resiliencia-ambiental-en-sistemas-socio-ecologicos-urbanos-de-ciudades-neo-tropicales-casos-quito-y-guayaquil/
