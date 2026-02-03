@@ -7,9 +7,9 @@ permalink: /project/
 <!-- rebuild -->
 
 
-# [Environmental resilience in cities. Quito and Guayaquil cases](https://cedia.edu.ec/resiliencia-ambiental-en-sistemas-socio-ecologicos-urbanos-de-ciudades-neo-tropicales-casos-quito-y-guayaquil/)
-## Rol: Principal investigator
-### Enero-Diciembre-2020.
+## [Environmental resilience in cities. Quito and Guayaquil cases](https://cedia.edu.ec/resiliencia-ambiental-en-sistemas-socio-ecologicos-urbanos-de-ciudades-neo-tropicales-casos-quito-y-guayaquil/)
+### Rol: Principal investigator
+#### Enero-Diciembre-2020.
 
 ![Resiliencia Ambiental](https://github.com/sbonillab/sbonillab.github.io/blob/kramdown-and-rouge/images/Resiliencia03.png)
  
