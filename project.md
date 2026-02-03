@@ -39,7 +39,6 @@ En conclusión, el proyecto busca establecer una base científica sólida para i
 
 ---
 
-
 Enero-Diciembre-2020.Environmental resilience in cities. Quito and Guayaquil cases [https://cedia.edu.ec/resiliencia-ambiental-en-sistemas-socio-ecologicos-urbanos-de-ciudades-neo-tropicales-casos-quito-y-guayaquil/
 (https://cedia.edu.ec/resiliencia-ambiental-en-sistemas-socio-ecologicos-urbanos-de-ciudades-neo-tropicales-casos-quito-y-guayaquil/)
 
