@@ -4,6 +4,7 @@ title: Project
 permalink: /project/
 ---
 
+x
 
 2004-2009. Development of sustainable agroforestry systems based on indigenous and maroon knowledge in the Guyana shield region (Guyagrofor Project: [https://cordis.europa.eu/project/id/510935](https://cordis.europa.eu/project/id/510935).
 
